@@ -1,7 +1,5 @@
-modifiction
-
-
 """
+modifiction
 Setup file for the example_module
 """
 from setuptools import setup
